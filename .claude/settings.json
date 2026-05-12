@@ -1,0 +1,5 @@
+{
+  "enabledPlugins": {
+    "octopus-deploy-devops@octopus-deploy-public-plugins": true
+  }
+}
